@@ -1,0 +1,33 @@
+body{
+    font-family: Merriweather, sans-serif;
+    background-color:#F4C475;
+    color:#0E5EA9;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'merriweather', cursive;
+}
+h1 {
+    font-size: 30pt;
+}
+h2 {
+    font-size: 22pt;
+}
+
+header {
+    text-align: center;
+}
+#hero, footer {
+    color:#47A6FF;
+    border: 2px solid #027EF2;
+    background-color: #A66700;
+    text-align: center;
+    padding: 10px;
+}
+#hero img {
+    width: 300px;
+}
+
+#bio{
+    text-align: center;
+}
