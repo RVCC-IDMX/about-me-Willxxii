@@ -1,16 +1,15 @@
 body{
     font-family: Merriweather, sans-serif;
-    background-color:#F4C475;
+    background-color:#faf8ff;
     color:#0E5EA9;
 }
 
 h1, h2, h3, h4, h5, h6 {
     font-family: 'merriweather', cursive;
     text-align: center;
+    font-size: 40pt;
 }
-h1 {
-    font-size: 30pt;
-}
+
 h2 {
     font-size: 22pt;
 }
@@ -19,9 +18,9 @@ header {
     text-align: center;
 }
 #hero, footer {
-    color:#47A6FF;
+    color:#0882f3;
     border: 2px solid #027EF2;
-    background-color: #A66700;
+    background-color: #d0a561;
     text-align: center;
     padding: 10px;
 }
@@ -51,6 +50,7 @@ header {
 
 #gallery {
     border: 2px solid blueviolet;
+    margin-bottom: 2rem;
 }
 
 #gallery img {
@@ -59,4 +59,34 @@ header {
 
 #gallery figure {
     text-align: center;
+}
+
+/* Literature */
+#lit {
+    border: 2px solid blueviolet;
+    margin-bottom: 2rem;
+}
+
+#lit div{
+    padding: 2rem;
+    max-width: 40rem;
+    margin: 0 auto;
+}
+
+#lit div  p {
+    padding: 0.3rem 0;
+    clear:both;
+}
+
+/* Dropcaps */
+
+#lit div p::first-letter {
+color: blueviolet;
+background-color: azure;
+float: left;
+font-size: 2em;
+font-style: italic;
+padding: .5em;
+line-height: .65;
+border: 2px solid black;
 }
