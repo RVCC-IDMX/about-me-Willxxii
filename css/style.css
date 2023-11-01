@@ -148,3 +148,9 @@ grid-template-columns: 1fr 1fr 1fr;
         display: block;
     }
 }
+
+#video{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
