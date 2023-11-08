@@ -1,3 +1,3 @@
 # README
 
-Will Sisler
+Will Sisler - about me
