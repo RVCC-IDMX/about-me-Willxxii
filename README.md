@@ -8,5 +8,7 @@ My name is Will Sisler and this is my About Me website’s README section. Throu
 
 ![Color Schemes](./img/example.jpg)
 
+After following several steps in the About Me Final Project module, I have concluded that my color scheme is awesome and needs no changing at all. I added a picture of myself to replace my hero avatar, along with adding hyperlinks to my repository and instagram. I included a lengthy bioagraphy paragraph and extended the hobby list aswell. I also changed up some of the aestetics of the page in the form of new borders and formatting.  
+
 ©2023 - Will Sisler
 

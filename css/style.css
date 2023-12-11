@@ -1,30 +1,48 @@
+/*Body and various assorted style choices*/
 body{
     font-family: Merriweather, sans-serif;
     background-color:#faf8ff;
     color:#0E5EA9;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h3, h4, h5, h6 {
     font-family: 'merriweather', cursive;
     text-align: center;
-    font-size: 40pt;
+    font-size: 30pt;
 }
 
 h2 {
     margin: .1em;
+    font-size: 22pt;
 }
 
-h2 {
-    font-size: 22pt;
+
+h3{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+}
+
+h5{
+    margin-bottom: 20px;
+}
+
+h5 figcaption {
+    font-size: 20px;
+}
+
+h6 {
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 header {
     text-align: center;
 }
 #hero, footer {
-    color:#0882f3;
-    border: 2px solid #027EF2;
-    background-color: #d0a561;
+    color: #faf8ff;
+    border: 2px solid blueviolet;
+    background-color: #0E5EA9;
     text-align: center;
     padding: 10px;
 }
@@ -39,6 +57,8 @@ header {
 
 #bio{
     text-align: center;
+    border: 2px solid blueviolet;
+    margin-top: 2rem;
 }
 
 /* Hobbies */
@@ -47,6 +67,7 @@ section#hobbies {
     display: flex;
     flex-direction: column;
     align-items: center;
+    border: 2px solid blueviolet;
 }
 
 #hobbies  ul li:nth-child(odd) {
@@ -59,7 +80,6 @@ section#hobbies {
 /* Gallery */
 
 #gallery {
-    border: 2px solid blueviolet;
     margin-bottom: 2rem;
 }
 
@@ -69,6 +89,7 @@ section#hobbies {
 
 #gallery figure {
     text-align: center;
+    border: 2px solid blueviolet;
 }
 
 /* Literature */
@@ -149,6 +170,8 @@ grid-template-columns: 1fr 1fr 1fr;
     }
 }
 
+/* Short Video */
+
 #video{
     display: flex;
     flex-direction: column;
@@ -204,4 +227,15 @@ legend {
     max-width: 400px;
     width: 50%;
     justify-self: center;
+}
+
+/*Footer*/
+
+footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 2px solid blueviolet;
+    margin-left: 200px;
+    margin-right: 200px;
 }
