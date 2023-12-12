@@ -8,7 +8,15 @@ My name is Will Sisler and this is my About Me website’s README section. Throu
 
 ![Color Schemes](./img/example.jpg)
 
-After following several steps in the About Me Final Project module, I have concluded that my color scheme is awesome and needs no changing at all. I added a picture of myself to replace my hero avatar, along with adding hyperlinks to my repository and instagram. I included a lengthy bioagraphy paragraph and extended the hobby list aswell. I also changed up some of the aestetics of the page in the form of new borders and formatting.  
+After following several steps in the About Me Final Project module, I have concluded that my color scheme is awesome and needs no changing at all. I added a picture of myself to replace my hero avatar, along with adding hyperlinks to my repository and instagram. I included a lengthy bioagraphy paragraph and extended the hobby list aswell. I also changed up some of the aestetics of the page in the form of new borders and formatting. I also have replaced the dummy Pide and Prejudice lorem ipsum with a lovely article about road trips and embedding Google maps.  
+
+Below are MLA citations to the three sources I used for the blog article:
+
+Juviler, Jamie. “How to Embed Google Map in HTML [Step-By-Step Guide].” Hubspot, 2 Jan. 2023, https://blog.hubspot.com/website/how-to-embed-google-map-in-html. Accessed 10 Dec. 2023. 
+
+“How to Embed a Google Map into a Web Page.” Plugged In: For UMaine Extension Staff and Volunteers, The University of Maine, 3 Sept. 2019, extension.umaine.edu/plugged-in/technology-marketing-communications/web/tips-for-web-managers/embed-map/. 
+
+Basic Hacks, director. How to Get IFRAME HTML Code for a Location from Google Maps | How to Embed Google Map Using Iframe. YouTube, 28 Sept. 2020, https://www.youtube.com/watch?v=xEESt2LpRCw. Accessed 10 Dec. 2023. 
 
 ©2023 - Will Sisler
 
